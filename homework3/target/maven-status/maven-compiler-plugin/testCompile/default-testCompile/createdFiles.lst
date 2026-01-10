@@ -1,0 +1,10 @@
+org\example\AlertTests.class
+org\example\core\DriverFactory.class
+org\example\pages\BasePage.class
+org\example\pages\DemoQaPracticeFormPage.class
+org\example\tools\AllureReportScreenshot.class
+org\example\core\AllureTestListener.class
+org\example\core\BaseTest.class
+org\example\FormTests.class
+org\example\core\DriverManager.class
+org\example\pages\AlertsPage.class
